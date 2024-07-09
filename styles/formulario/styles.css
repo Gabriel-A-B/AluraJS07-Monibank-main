@@ -117,6 +117,14 @@
     width: 50%;
 }
 
+#enviar:hover {
+    cursor: pointer;
+}
+
+.camera__botao:hover {
+    cursor: pointer;
+}
+
 .formulario__texto {
     margin: 1em 8em;
 }
