@@ -104,6 +104,10 @@
     margin: 2em auto;
 }
 
+.formulario__imagem:hover {
+    cursor: pointer;
+}
+
 .formulario__imagem--invisivel {
     display: none;
 }
